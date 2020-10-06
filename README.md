@@ -7,7 +7,7 @@ The aim of this project is to build a multi-section landing page, with a dynamic
 
 * Live link
 * Getting started
-* PROJECT SPECIFICATION
+* Project Specifications
 
 
 
